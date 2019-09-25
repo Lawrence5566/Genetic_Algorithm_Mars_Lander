@@ -7,7 +7,7 @@ Installing:
 -The project uses visual studio 2017 and the latest version of openframeworks  
 -It uses only the 'ofxGui' addon in openframeworks.  
 -The files I've written are in OFGeneticAlgorithm/OFGeneticAlgorithm/src/  
--The project will not run out the box, as it requires openframeworks and it maybe easiest to create a new opeframeworks project (with the ofxGui addon) and add the files in "OFGeneticAlgorithm/OFGeneticAlgorithm/src/" to the solution.  
+-The project will not run out the box, as it requires openframeworks be installed. It maybe easiest to create a new opeframeworks project (with the ofxGui addon) and add the files in "OFGeneticAlgorithm/OFGeneticAlgorithm/src/" to the solution, instead of messing with file paths.  
 
 Running:  
 -If you manage to get the program running, it will iterate a number of times showing a graphical display of the process it takes to find a path.  
